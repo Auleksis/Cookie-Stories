@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; justify-content: space-around;">
+        <ui:VisualElement name="Container" style="justify-content: space-around; flex-grow: 0; flex-basis: 20%; align-items: center; padding-left: 15%; padding-right: 15%; padding-top: 0; padding-bottom: 0; background-color: rgb(188, 116, 116); border-left-color: rgb(58, 15, 15); border-right-color: rgb(58, 15, 15); border-top-color: rgb(58, 15, 15); border-bottom-color: rgb(58, 15, 15); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; border-top-left-radius: 3px; border-bottom-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; margin-left: 15%; margin-right: 15%;">
+            <ui:Label text="sdsdslknsdbfskjbfkjds" display-tooltip-when-elided="true" name="UnitText" style="min-width: auto; max-width: none; max-height: none; flex-wrap: nowrap; width: initial; height: initial;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
